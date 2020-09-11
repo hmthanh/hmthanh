@@ -1,6 +1,5 @@
-### Hi , I'm Thanh-Minh Hoang 👋
+# Hi , I'm Thanh-Minh Hoang 👋
 
-<br />
 ### Contact with me :
 
 [<img align="left" alt="dataalliance.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
