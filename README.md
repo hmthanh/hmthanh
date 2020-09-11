@@ -1,6 +1,7 @@
 ### Hi , I'm Thanh-Minh Hoang 👋
 
 <br />
+### Contact with me :
 
 [<img align="left" alt="dataalliance.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -13,12 +14,9 @@
 
 <!--**hmthanh/hmthanh** is a  repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Python Dev and Deep Learning Enthusiast 🧬
--  
-
 <br />
 
-### Languages and Tools:
+### Languages and Tools :
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
@@ -33,21 +31,12 @@
 <br />
 <br />
 <br />
-
-### Connect with me:
-
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 [website]: https://hmthanh.github.io/
 [twitter]: https://twitter.com/hmthanhgm
 [linkedin]: https://www.linkedin.com/in/hmthanh/
-[instagram]: https://www.instagram.com/hmthanh
+[instagram]: https://www.instagram.com/hmthanhgm
 [facebook]: https://www.facebook.com/hmthanhgm
 
 <!-- 
