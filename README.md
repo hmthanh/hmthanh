@@ -1,16 +1,20 @@
 ### Hi , I'm Thanh-Minh Hoang 👋
 
 Personal Website : https://hmthanh.github.io/
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 Twitter : https://twitter.com/hmthanhgm
+
 Facebook : http://fb.com/hmthanhgm
+
 <!--
-**hmthanh/hmthanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Msc student at Stockholm University - Operations Management & Machine Learning 🧬
--  Founder of a ***Machine Learning startup*** in Stockholm called: [dataalliance.io][website] assisting organisations with how to gain business insights using Machine Learning.
--  **Coding focus**: Optimisation models for Operations & Supply Chain Management, where Demand Forecasting is the most rewarding. 
--  **2020 Goals**: Create projects from everyting you learn. If you learn about OOP, put that into a project makes the learning process more rewarding and easier to remember the different concepts. 
--  **What I love**: Play blues guitar, preferably with a gang of people out in the woods. 
-- **Kaggle**: My kaggle profile: https://www.kaggle.com/ggolle
+
+**hmthanh/hmthanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## Python Dev and Deep Learning Enthusiast 🧬
+-  
 
 <br />
 
@@ -42,20 +46,15 @@ Facebook : http://fb.com/hmthanhgm
 <br />
 <br />
 
----
-
+<!-- 
 ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
 - [Creating Music with GPT-3 - Will this change the Music Industry?](https://www.youtube.com/watch?v=2khIVv8wNgM)
 - [Using GPT-3 to write Medium Articles](https://www.youtube.com/watch?v=KSj8w1x8ytE)
 - [GPT-3 Example - Cover Letter Generator - inc Model/Code Walkthrough](https://www.youtube.com/watch?v=BmGgd7IXaCQ)
 - [Is the Machine Learning Engineer Nanodegree from Udacity worth it?](https://www.youtube.com/watch?v=PH4cGOIYLHk)
 - [Create Song Lyrics using a Nerual Network (RNN/textgenrnn)](https://www.youtube.com/watch?v=kAAg27SQme4)
-<!-- YOUTUBE:END -->
-
----
-
-
+-->
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning, Deep Learning
