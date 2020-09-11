@@ -8,12 +8,14 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-
-<br />
+[website]: https://hmthanh.github.io/
+[twitter]: https://twitter.com/hmthanhgm
+[linkedin]: https://www.linkedin.com/in/hmthanh/
+[instagram]: https://www.instagram.com/hmthanhgm
+[facebook]: https://www.facebook.com/hmthanhgm
 
 <!--**hmthanh/hmthanh** is a  repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<br />
 
 ### Languages and Tools :
 
@@ -28,15 +30,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
-<br />
-<br />
 
-[website]: https://hmthanh.github.io/
-[twitter]: https://twitter.com/hmthanhgm
-[linkedin]: https://www.linkedin.com/in/hmthanh/
-[instagram]: https://www.instagram.com/hmthanhgm
-[facebook]: https://www.facebook.com/hmthanhgm
 
 <!-- 
 ### 📺 Latest YouTube Videos
