@@ -1,15 +1,19 @@
 ### Hi , I'm Thanh-Minh Hoang 👋
 
+<br />
+
 [<img align="left" alt="dataalliance.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<!--
 
-**hmthanh/hmthanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## Python Dev and Deep Learning Enthusiast 🧬
+<br />
+
+<!--**hmthanh/hmthanh** is a  repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+### Python Dev and Deep Learning Enthusiast 🧬
 -  
 
 <br />
@@ -66,3 +70,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✨ _Your ambition outweighs your talent_ ✨
