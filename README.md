@@ -1,4 +1,4 @@
-# Hi , I'm Thanh-Minh Hoang 👋
+# Hi , I'm Minh-Thanh Hoang 👋
 
 ### Contact with me :
 
