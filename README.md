@@ -32,7 +32,7 @@
 
 <br />
 <br />
-✨ _Your ambition outweighs your talent_ ✨
+✨ _Sleep for dreaming, life for working_ ✨
 
 <!-- 
 ### 📺 Latest YouTube Videos
