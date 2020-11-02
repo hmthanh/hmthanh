@@ -59,29 +59,8 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 <a href="https://github.com/hmthanh/hmthanh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmthanh&hide=jupyter notebook, java,html&title_color=c9cacc&text_color=000000&icon_color=2bbc8a&bg_color=ffffff"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmthanh&hide=jupyter notebook, java,html&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="Minh-Thanh's GitHub Stats"/>
 </a>
 <a href="https://github.com/hmthanh/hmthanh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hmthanh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-
-
-
-<details>
-<summary>GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-</details>
-
-
-
-<a href="https://github.com/hmthanh/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hmthanh&repo=python-project-blueprint&title_color=ffffff&text_color=000000&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/hmthanh/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hmthanh&repo=go-project-blueprint&title_color=ffffff&text_color=000000&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hmthanh&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="Minh-Thanh's GitHub Stats" />
 </a>
