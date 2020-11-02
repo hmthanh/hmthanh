@@ -2,6 +2,8 @@
 
 ### <p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p> 🤗🤗🤗🤗
 
+### Blog: [Minh-Thanh's Blog](https://hmthanh.github.io/blog/)
+
 ### Contact with me :
 
 [<img align="left" alt="dataalliance.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
