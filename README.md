@@ -1,6 +1,6 @@
 # Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Minh-Thanh Hoang <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-### 🤗🤗🤗🤗<p align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p> 
+### 🤗🤗🤗🤗<p align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=hmthanh.hmthanh" alt="visitors"></p> 
 
 ### Blog: [Minh-Thanh's Blog](https://hmthanh.github.io/blog/)
 
