@@ -66,12 +66,12 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/hmthanh/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hmthanh&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hmthanh&repo=python-project-blueprint&title_color=ffffff&text_color=000000&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/hmthanh/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hmthanh&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hmthanh&repo=go-project-blueprint&title_color=ffffff&text_color=000000&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
