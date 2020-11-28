@@ -6,7 +6,7 @@
 
 ### Contact with me :
 
-[<img align="left" alt="dataalliance.io" width="59px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="dataalliance.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -22,7 +22,7 @@
 <br />
 
 ### Languages and Tools :
-<img align="left" alt="VSVim" width="26px" src="https://raw.githubusercontent.com/hmthanh/hmthanh/master/imgs/vsvim.png" />
+<img align="left" alt="VSVim" width="69px" src="https://raw.githubusercontent.com/hmthanh/hmthanh/master/imgs/vsvim.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Terminal" width="26px" src="https://e7.pngegg.com/pngimages/1008/422/png-clipart-round-greater-than-and-minus-illustratuion-brand-logo-circle-terminal-logo-linux.png" />
