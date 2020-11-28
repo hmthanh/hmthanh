@@ -22,11 +22,7 @@
 <br />
 
 ### Languages and Tools :
-
-<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />
-<img align="left" alt="plus" width="20px" src="https://cdn0.iconfinder.com/data/icons/very-basic-2-android-l-lollipop-icon-pack/24/plus-512.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="comma" width="20px" src="https://cdn2.iconfinder.com/data/icons/math-numbers-1/24/comma-512.png" />
+<img align="left" alt="VSVim" width="26px" src="https://raw.githubusercontent.com/hmthanh/hmthanh/master/imgs/vsvim.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Terminal" width="26px" src="https://e7.pngegg.com/pngimages/1008/422/png-clipart-round-greater-than-and-minus-illustratuion-brand-logo-circle-terminal-logo-linux.png" />
