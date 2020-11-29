@@ -2,7 +2,7 @@
 
 ### <p style="float:left"><img src="https://visitor-badge.glitch.me/badge?page_id=hmthanh.hmthanh" alt="visitors"></p>🤗🤗🤗🤗 
 
-### Blog: [Minh-Thanh's Blog](https://hmthanh.github.io/blog/)
+### Blog: [State of the art Blog](https://hmthanh.github.io/blog/)
 
 ### Contact with me :
 
