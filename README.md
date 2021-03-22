@@ -2,6 +2,9 @@
 
 ### <p style="float:left"><img src="https://visitor-badge.glitch.me/badge?page_id=hmthanh.hmthanh" alt="visitors"></p>🤗🤗🤗🤗 
 
+> What focus mean is saying no to something that every bone in your body it's a phenomenal idea.
+> And you wake up thinking about this, but you say no to it, because you focus on something else.
+
 ### Blog: [State of the art](https://hmthanh.github.io/blog/)
 
 ### Contact with me :
