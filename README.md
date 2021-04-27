@@ -1,6 +1,8 @@
 # Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Minh-Thanh Hoang <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-### <p style="float:left"><img src="https://visitor-badge.glitch.me/badge?page_id=hmthanh.hmthanh" alt="visitors"></p>🤗🤗🤗🤗 
+### <p style="float:left"><img src="https://visitor-badge.glitch.me/badge?page_id=hmthanh.hmthanh" alt="visitors"></p>
+
+🤗🤗🤗🤗 
 
 > "What focus mean is saying no to something that every bone in your body you think it's a phenomenal idea.
 > And you wake up thinking about this, but you say no to it, because you focus on something else."
