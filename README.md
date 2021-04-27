@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 <a href="https://github.com/hmthanh/hmthanh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmthanh&line_height=27&hide=javascript, java,html&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="Minh-Thanh's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmthanh&line_height=27&hide=javascript, java,html, tsql, ASP.NET&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="Minh-Thanh's GitHub Stats"/>
 </a>
 <a href="https://github.com/hmthanh/hmthanh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hmthanh&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="Minh-Thanh's GitHub Stats" />
