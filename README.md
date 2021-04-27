@@ -4,7 +4,7 @@
 
 > "What focus mean is saying no to something that every bone in your body you think it's a phenomenal idea.
 > And you wake up thinking about this, but you say no to it, because you focus on something else."
-> <b>[https://youtu.be/2oksetv3i90?t=86](Jony Ive)</b>
+> ![https://youtu.be/2oksetv3i90?t=86](Jony Ive)
 
 ### Blog: [State of the art](https://hmthanh.github.io/blog/)
 
