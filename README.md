@@ -8,9 +8,6 @@
 > And you wake up thinking about this, but you say no to it, because you focus on something else."
 [Jony Ive](https://youtu.be/2oksetv3i90?t=86)
 
-> "Focus is about saying no"
-[Steve Jobs](https://www.youtube.com/watch?v=H8eP99neOVs)
-
 
 ### Blog: [State of the art](https://hmthanh.github.io/blog/)
 
