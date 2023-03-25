@@ -13,7 +13,7 @@
 
 ### Blog: [State of the art](https://hmthanh.github.io/blog/)
 
-### Contact with me :
+### Contact with me:
 
 [<img align="left" alt="dataalliance.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -21,16 +21,16 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[website]: https://hmthanh.github.io/
+[website]: https://hmthanh.github.io
 [twitter]: https://twitter.com/hmthanhgm
-[linkedin]: https://www.linkedin.com/in/hmthanh/
+[linkedin]: https://www.linkedin.com/in/hmthanh
 [instagram]: https://www.instagram.com/hmthanhgm
 [facebook]: https://www.facebook.com/hmthanhgm
 
 <!--**hmthanh/hmthanh** is a  repository because its `README.md` (this file) appears on your GitHub profile.-->
 <br />
 
-### Languages and Tools :
+<!-- ### Languages and Tools :
 <img align="left" alt="VSVim" width="69px" src="https://raw.githubusercontent.com/hmthanh/hmthanh/master/imgs/vsvim.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
@@ -38,9 +38,14 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
 
 <br />
+
+### 📺 Latest YouTube Videos
+
+- [Will Artificial Intelligent (AI) take over the world](https://slides.com/hoangminhthanh/will-ai)
+
 <br />
 <!-- ✨ _Sleep for dreaming, life for working_ ✨--!>
 
