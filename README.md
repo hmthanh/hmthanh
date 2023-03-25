@@ -15,7 +15,7 @@
 
 ### Products: 
 
-* OpenHuman.ai - Open realistic virtual human
+* [OpenHuman.ai](http://openhuman.ai/) - Open realistic virtual human
 
 ### Contact with me:
 
