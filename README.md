@@ -13,6 +13,10 @@
 
 ### Blog: [State of the art](https://hmthanh.github.io/blog/)
 
+### Products: 
+
+* OpenHuman.ai - Open realistic virtual human
+
 ### Contact with me:
 
 [<img align="left" alt="dataalliance.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
