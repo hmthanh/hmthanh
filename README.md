@@ -43,11 +43,11 @@
 
 <br />
 
-### 📺 Present
+<!-- ### 📺 Present
 
 - [Will Artificial Intelligent (AI) take over the world](https://slides.com/hoangminhthanh/will-ai)
 
-<br />
+<br /> -->
 <!-- ✨ _Sleep for dreaming, life for working_ ✨--!>
 
 <!-- 
