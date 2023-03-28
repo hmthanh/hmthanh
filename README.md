@@ -18,6 +18,13 @@
 * [OpenHuman.ai](http://openhuman.ai/) - Open realistic virtual human
 * [MillionScope.com](https://millionscope.com/) - Content-oriented scientific text editor application
 
+### Side projects:
+
+* Loading animation with sound: [https://hmthanh.github.io/collection_loading_animation/](https://hmthanh.github.io/collection_loading_animation/)
+* Three.JS 3D human: [https://hmthanh.github.io/3d-human-model/](https://hmthanh.github.io/3d-human-model/)
+* Pucca Runner: [https://hmthanh.github.io/pucca_runner/](https://hmthanh.github.io/pucca_runner/)
+* RSA: [https://hmthanh.github.io/rsa/](https://hmthanh.github.io/rsa/)
+
 ### Contact with me:
 
 [<img align="left" alt="dataalliance.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
