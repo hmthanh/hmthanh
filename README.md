@@ -16,7 +16,7 @@
 ### Products: 
 
 * [OpenHuman.ai](http://openhuman.ai/) - Open realistic virtual human
-* [MillionScope.com](https://millionscope.com/) - Content-oriented scientific text editor application
+* [MillionScope.com](https://millionscope.com/) - Content-oriented scientific latex writer
 
 ### Side projects:
 
