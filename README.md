@@ -20,7 +20,7 @@
 
 ### Repos: 
 
-* [awesome_gesture_generation](https://github.com/OpenHuman-ai/awesome-gesture_generation)
+* [OpenHuman/Awesome Gesture Generation](https://github.com/OpenHuman-ai/awesome-gesture_generation)
 
 ### Side projects:
 
