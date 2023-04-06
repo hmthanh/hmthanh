@@ -18,6 +18,10 @@
 * [OpenHuman.ai](http://openhuman.ai/) - Open Digital Human Assistant
 * [MillionScope.com](https://millionscope.com/) - Content-oriented scientific latex writer
 
+### Repos: 
+
+* [awesome_gesture_generation](https://github.com/OpenHuman-ai/awesome-gesture_generation)
+
 ### Side projects:
 
 * Loading animation with sound: [https://hmthanh.github.io/collection_loading_animation/](https://hmthanh.github.io/collection_loading_animation/)
