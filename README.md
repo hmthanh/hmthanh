@@ -15,7 +15,7 @@
 
 ### Products: 
 
-* [OpenHuman.ai](http://openhuman.ai/) - Open Digital Human Assistant
+* [OpenHuman.ai](http://openhuman.ai/) - Open Realistic Digital Human
 * [MillionScope.com](https://millionscope.com/) - Content-oriented scientific latex writer
 
 ### Repos: 
