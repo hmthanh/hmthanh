@@ -13,10 +13,10 @@
 
 ### Blog: [State of the art](https://hmthanh.github.io/blog/)
 
-### Products: 
+<!-- ### Products: 
 
 * [OpenHuman.ai](http://openhuman.ai/) - Open Realistic Digital Human
-* [MillionScope.com](https://millionscope.com/) - Content-oriented scientific latex writer
+* [MillionScope.com](https://millionscope.com/) - Content-oriented scientific latex writer -->
 
 ### Repos: 
 
