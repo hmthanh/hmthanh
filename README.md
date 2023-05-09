@@ -22,7 +22,7 @@
 
 * [OpenHuman/Awesome Gesture Generation](https://github.com/OpenHuman-ai/awesome-gesture_generation)
 
-### Side projects:
+### Pet projects:
 
 * Loading animation with sound: [https://hmthanh.github.io/collection_loading_animation/](https://hmthanh.github.io/collection_loading_animation/)
 * Three.JS 3D human: [https://hmthanh.github.io/3d-human-model/](https://hmthanh.github.io/3d-human-model/)
