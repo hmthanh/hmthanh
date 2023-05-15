@@ -11,7 +11,7 @@
 [Jony Ive](https://youtu.be/2oksetv3i90?t=86)
 
 
-### Blog: [State of the art](https://hmthanh.github.io/blog/)
+### Blog: [MillionScope](https://MillionScope.com)
 
 <!-- ### Products: 
 
