@@ -11,7 +11,7 @@
 [Jony Ive](https://youtu.be/2oksetv3i90?t=86)
 
 
-### Blog: [MillionScope.com](https://MillionScope.com)
+### Posts: [MillionScope.com](https://MillionScope.com)
 
 <!-- ### Products: 
 
