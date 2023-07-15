@@ -21,10 +21,8 @@
 ### Repos
 
 * [OpenHuman/Awesome Gesture Generation](https://github.com/OpenHuman-ai/awesome-gesture_generation)
-
-### Pet:
-
-[Loading animation with sound](https://hmthanh.github.io/collection_loading_animation/) ; [Three.JS 3D human](https://hmthanh.github.io/3d-human-model/) ; [Pucca Runner](https://hmthanh.github.io/pucca_runner/)
+* Pet project: 
+    - [Loading animation with sound](https://hmthanh.github.io/collection_loading_animation/) ; [Three.JS 3D human](https://hmthanh.github.io/3d-human-model/) ; [Pucca Runner](https://hmthanh.github.io/pucca_runner/)
 
 ### Contact with me:
 
