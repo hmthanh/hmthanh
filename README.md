@@ -11,18 +11,19 @@
 [Jony Ive](https://youtu.be/2oksetv3i90?t=86)
 
 
-### Posts: [MillionScope.com](https://MillionScope.com)
+### Posts 
+* [MillionScope.com](https://MillionScope.com)
 
 <!-- ### Products: 
 
 * [OpenHuman.ai](http://openhuman.ai/) - Open Realistic Digital Human
 * [MillionScope.com](https://millionscope.com/) - Content-oriented scientific latex writer -->
 
-### Repos: 
+### Repos
 
 * [OpenHuman/Awesome Gesture Generation](https://github.com/OpenHuman-ai/awesome-gesture_generation)
 
-### Pet projects:
+### Pet:
 
 * [Loading animation with sound](https://hmthanh.github.io/collection_loading_animation/)
 * [Three.JS 3D human](https://hmthanh.github.io/3d-human-model/)
