@@ -11,7 +11,11 @@
 [Jony Ive](https://youtu.be/2oksetv3i90?t=86)
 
 
-### [MillionScope.com](https://MillionScope.com)
+### Web:
+- [MillionScope.com](https://MillionScope.com)
+
+### Repos
+- https://hmthanh.github.io/collection_loading_animation
 
 <!-- ### Products: 
 
