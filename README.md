@@ -16,6 +16,8 @@
 [collection_loading_animation](https://hmthanh.github.io/collection_loading_animation)
 [awesome-gesture_generation](https://github.com/OpenHuman-ai/awesome-gesture_generation)
 [3d-human-model](https://github.com/hmthanh/3d-human-model)
+[pucca_runner](https://github.com/hmthanh/pucca_runner)
+[GCAT](https://github.com/hmthanh/GCAT)
 
 <!-- ### Products: 
 
