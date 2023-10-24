@@ -41,8 +41,7 @@
 
 [website]: https://hmthanh.github.io
 [twitter]: https://twitter.com/hmthanhgm
-<!--
-[linkedin]: https://www.linkedin.com/in/hmthanh/
+<!-- [linkedin]: https://www.linkedin.com/in/hmthanh/
 -->
 
 <!--**hmthanh/hmthanh** is a  repository because its `README.md` (this file) appears on your GitHub profile.-->
