@@ -18,6 +18,8 @@
 [pucca_runner](https://github.com/hmthanh/pucca_runner)
 [GCAT](https://github.com/hmthanh/GCAT)
 [spectrogram_visualization](https://github.com/hmthanh/spectrogram_visualization)
+[rsa](https://github.com/hmthanh/rsa)
+[sha](https://github.com/hmthanh/sha)
 
 <!-- ### Products: 
 
