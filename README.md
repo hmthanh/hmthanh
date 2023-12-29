@@ -20,6 +20,7 @@
 [spectrogram_visualization](https://github.com/hmthanh/spectrogram_visualization)
 [rsa](https://github.com/hmthanh/rsa)
 [sha](https://github.com/hmthanh/sha)
+[ElGamal](https://github.com/hmthanh/ElGamal)
 
 <!-- ### Products: 
 
