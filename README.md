@@ -3,12 +3,12 @@
 
 🤗🤗🤗🤗 
 
-<!-- > Continuous improvement is better than delayed perfection. Mark Twain -->
+<!-- > Continuous improvement is better than delayed perfection. Mark Twain
 
 > "What focus mean is saying no to something that every bone in your body you think it's a *phenomenal idea*.
 > And you wake up thinking about this, but you say no to it, because you focus on something else."
 [Jony Ive](https://youtu.be/2oksetv3i90?t=86)
-
+ -->
 
 **[MillionScope.com](https://MillionScope.com)**
 
