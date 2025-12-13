@@ -22,6 +22,7 @@
 [rsa](https://github.com/hmthanh/rsa)
 [sha](https://github.com/hmthanh/sha)
 [ElGamal](https://github.com/hmthanh/ElGamal)
+[torchdiffeq_metal](https://github.com/hmthanh/torchdiffeq_metal)
 
 <!-- ### Products: 
 
