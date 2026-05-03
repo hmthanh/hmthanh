@@ -3,7 +3,7 @@
 
 🤗🤗🤗🤗 
 
-<img  width="128" height="128" src='https://github.com/hmthanh/hmthanh/blob/master/imgs/hmthanh.gif?raw=true'>
+<img  width="64" height="64" src='https://github.com/hmthanh/hmthanh/blob/master/imgs/hmthanh.gif?raw=true'>
 
 <!-- > Continuous improvement is better than delayed perfection. Mark Twain
 
