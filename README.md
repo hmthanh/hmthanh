@@ -3,6 +3,8 @@
 
 🤗🤗🤗🤗 
 
+<img  width="128" height="128" src='https://github.com/hmthanh/hmthanh/blob/master/imgs/hmthanh.gif?raw=true'>
+
 <!-- > Continuous improvement is better than delayed perfection. Mark Twain
 
 > "What focus mean is saying no to something that every bone in your body you think it's a *phenomenal idea*.
