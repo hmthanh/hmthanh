@@ -29,6 +29,7 @@
 [ElGamal](https://github.com/hmthanh/ElGamal)
 [torchdiffeq_metal](https://github.com/hmthanh/torchdiffeq_metal)
 [hochiminh-ai.pages.dev](https://hochiminh-ai.pages.dev)
+[HerculesRemaster/HerculesRemaster](https://github.com/HerculesRemaster/HerculesRemaster)
 
 <!-- ### Products: 
 
