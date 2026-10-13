@@ -1,4 +1,4 @@
-# Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Thanh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+# Hi <img src='https://raw.githubusercontent.com/hmthanh/hmthanh/refs/heads/master/imgs/Hi.gif' alt='Hi' width="24"/>, I'm Thanh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 🤗🤗🤗🤗 
