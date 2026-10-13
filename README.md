@@ -15,7 +15,7 @@
 [Jony Ive](https://youtu.be/2oksetv3i90?t=86)
  -->
 
-**[Tensormorph.ai](https://tensormorph.ai)** | **[MarkdownOffice.com](https://markdownoffice.com)** | **[OpenHuman](https://openhuman.ai)**
+**[Tensormorph.ai](https://tensormorph.ai)** | **[MarkdownOffice.com](https://markdownoffice.com)** | **[OpenHuman.ai](https://openhuman.ai)**
 
 [collection_loading_animation](https://hmthanh.github.io/collection_loading_animation)
 [puccarunner.github.io](https://puccarunner.github.io) [code](https://github.com/hmthanh/pucca_runner)
